@@ -1,0 +1,1 @@
+pyinstaller --onefile --icon=icon.ico addCsvColumns.py -n csv‚ÉƒJƒ‰ƒ€’Ç‰Á
